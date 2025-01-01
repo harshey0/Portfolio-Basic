@@ -272,6 +272,9 @@ section {
 #about {
   position: relative;
 }
+#skills {
+  position: relative;
+}
 
 .about-containers {
   gap: 2rem;
